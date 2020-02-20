@@ -1,0 +1,43 @@
+﻿{
+  "sucesso": true,
+  "pedidoParceiroId": 1,
+  "codigoInternoParceiro": "2022020",
+  "nome": "Eryn Mcnaughton",
+  "documento": "48977319099",
+  "tipoDocumento": "CPF",
+  "tipoPessoa": "PF",
+  "inscricaoEstadual": "",
+  "inscricaoMunicipal": "",
+  "email": "claudio.ramosti@hotmail.com",
+  "telefoneDDD": "11",
+  "telefone": "40251907",
+  "celularDDD": "11",
+  "celular": "997158428",
+  "enderecoEntrega": {
+    "cep": "04543000",
+    "logradouro": "Avenida Presidente Juscelino Kubitschek",
+    "numero": 1830,
+    "bairro": "Vila Nova Conceicao",
+    "cidade": "Sao Paulo",
+    "uf": "SP"
+  },
+  "itens": [
+    {
+      "item": "ADESIVO",
+      "quantidade": 1,
+      "veiculoPlaca": "NYE-9796"
+    },
+    {
+      "item": "ADESIVO",
+      "quantidade": 2,
+      "veiculoPlaca": "NYE-2554"
+    }
+  ],
+  "dataCadastro": null,
+  "statusPedidoId": 3,
+  "statusPedido": null,
+  "statusPagamentoPedidoId": 2,
+  "statusPagamentoPedido": null,
+  "dataUltimaAlteracao": "0001-01-01T00:00:00",
+  "notificacoes": null
+}

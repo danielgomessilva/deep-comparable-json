@@ -1,0 +1,15 @@
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\FluentApiValidationObject.exe
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\exemplo\object.json
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\exemplo\toBeCompared.json
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\FluentApiValidationObject.deps.json
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\FluentApiValidationObject.runtimeconfig.json
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\FluentApiValidationObject.runtimeconfig.dev.json
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\FluentApiValidationObject.dll
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\FluentApiValidationObject.pdb
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\obj\Debug\netcoreapp3.1\FluentApiValidationObject.AssemblyInfoInputs.cache
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\obj\Debug\netcoreapp3.1\FluentApiValidationObject.AssemblyInfo.cs
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\obj\Debug\netcoreapp3.1\FluentApiValidationObject.csproj.CopyComplete
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\obj\Debug\netcoreapp3.1\FluentApiValidationObject.dll
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\obj\Debug\netcoreapp3.1\FluentApiValidationObject.pdb
+C:\Users\daniel.gomes\source\repos\FluentApiValidationObject\FluentApiValidationObject\obj\Debug\netcoreapp3.1\FluentApiValidationObject.csprojAssemblyReference.cache

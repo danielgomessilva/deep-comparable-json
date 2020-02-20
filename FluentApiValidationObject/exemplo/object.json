@@ -1,0 +1,35 @@
+﻿{
+  "codigoInternoParceiro": "2022020",
+  "nome": "Eryn Mcnaughton",
+  "documento": "97979259602",
+  "tipoDocumento": "CPF",
+  "tipoPessoa": "PF",
+  "email": "teste@email.com",
+  "celularDDD": "11",
+  "celular": "996079806",
+  "enderecoEntrega": {
+    "cep": "04543000",
+    "logradouro": "Avenida Presidente Juscelino Kubitschek",
+    "numero": 1830,
+    "bairro": "Vila Nova Conceicao",
+    "cidade": "Sao Paulo",
+    "uf": "SP"
+  },
+  "itens": [
+    {
+      "item": "ADESIVO",
+      "quantidade": 1,
+      "veiculoPlaca": "NYE-9796"
+    },
+    {
+      "item": "ADESIVO",
+      "quantidade": 2,
+      "veiculoPlaca": "NYE-2554"
+    },
+    {
+      "item": "ADESIVO",
+      "quantidade": 3,
+      "veiculoPlaca": "DEX-3339"
+    }
+  ]
+}
